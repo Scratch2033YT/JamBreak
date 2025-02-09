@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this jailbreak
 title: "[FEATURE]"
-labels: ''
+labels: 'REQUEST FEATURE'
 assignees: ''
 
 ---
