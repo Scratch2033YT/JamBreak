@@ -10,6 +10,7 @@ JPT=JamGPT
     A: I thought it was cool enough. JamGPT: ChatGPT core instructions given a Jam (a layer of new things fr)
 </summary>
 
+# Summary of everything
 <details>
     <summary>
      List of AI's Jailbroken:
