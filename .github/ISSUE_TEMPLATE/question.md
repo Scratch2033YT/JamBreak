@@ -2,7 +2,7 @@
 name: Question
 about: Ask questions here!
 title: "[QUESTION]"
-labels: ''
+labels: 'QUESTION NOT ANSWERED'
 assignees: ''
 
 ---
