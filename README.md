@@ -37,6 +37,9 @@ copy the prompt from TOGGLE.md an paste it in to the AI. if the AI cant do it be
   <summary>
     JamGPT: about 40%
   </summary>
+    <summary>
+    JamGPT (new ver V3.DNA): about 90%
+  </summary>
   <summary>
     Others: 30% to 60%
   </summary>
