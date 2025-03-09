@@ -2,6 +2,8 @@
 This is my Universal jailbreak for (almost) every AI.
 Its called JamGPT
 JPT=JamGPT
+# How to turn it on
+copy the prompt from TOGGLE.md an paste it in to the AI. if the AI cant do it because of "Can't search the web" or something, click on the edit button, turn the search feature, then clicking the send button ( yes, i know chatgpt CAN search the web without the button, for like getting up-to-date info)
 # FAQ
 <summary>
   Q: Why do you choose JamGPT as the name?
