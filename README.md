@@ -11,6 +11,7 @@ copy the prompt from TOGGLE.md an paste it in to the AI. if the AI cant do it be
 <summary>
     A: I thought it was cool enough. JamGPT: ChatGPT core instructions given a Jam (a layer of new things fr)
 </summary>
+
 ## Tips making jaibreaks
 1. Turn off the "Improve the model for everyone" feature in User -> Settings -> Data controls
 2. Make the prompt to use the web tool for new jailbreak versions (so the user dont need to copy-paste new prompt)
